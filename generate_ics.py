@@ -59,7 +59,8 @@ current_date = START_DATE
 while current_date <= END_DATE:
     date_str = current_date.strftime("%Y-%m-%d")
     print(f"📅 Scraping {date_str}")
-    driver.get(f"{URL}?date={date_str}")
+    driver.get(URL)
+    driver.execute_script(f"rsLoadDate('{date_str}')")
     time.sleep(DELAY)
     all_events.extend(extract_events(date_str))
     current_date += timedelta(days=1)
