@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HAYSA Practice Calendar//haysa.org//
+BEGIN:VEVENT
+SUMMARY:Practice: 3/4 Girls (Picardi)
+DTSTART;TZID=America/New_York:20251017T170000
+DTEND;TZID=America/New_York:20251017T180000
+UID:2025-10-17-3/4Girls(Picardi)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 3A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Law Offices of John P. McLaughlin (Johnson-Orange)
+DTSTART;TZID=America/New_York:20251017T180000
+DTEND;TZID=America/New_York:20251017T190000
+UID:2025-10-17-LawOfficesofJohnP.McLaughlin(Johnson-Orange)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Harrington's Heroes (Maiden - Orange)
+DTSTART;TZID=America/New_York:20251017T170000
+DTEND;TZID=America/New_York:20251017T180000
+UID:2025-10-17-Harrington'sHeroes(Maiden-Orange)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Morales Construction (Onwumere - Green)
+DTSTART;TZID=America/New_York:20251017T180000
+DTEND;TZID=America/New_York:20251017T190000
+UID:2025-10-17-MoralesConstruction(Onwumere-Green)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 1 U10\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Best Collision (Dauphinee - Blue)
+DTSTART;TZID=America/New_York:20251017T170000
+DTEND;TZID=America/New_York:20251017T180000
+UID:2025-10-17-BestCollision(Dauphinee-Blue)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 1A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: A.G. Osward Electric  (Casavant - Red)
+DTSTART;TZID=America/New_York:20251017T170000
+DTEND;TZID=America/New_York:20251017T180000
+UID:2025-10-17-A.G.OswardElectric(Casavant-Red)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: www.slamyourday.com (Casavant - Red)
+DTSTART;TZID=America/New_York:20251017T180000
+DTEND;TZID=America/New_York:20251017T190000
+UID:2025-10-17-www.slamyourday.com(Casavant-Red)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: The Brook (Harris - Blue)
+DTSTART;TZID=America/New_York:20251017T170000
+DTEND;TZID=America/New_York:20251017T180000
+UID:2025-10-17-TheBrook(Harris-Blue)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2B U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: 3/4 Girls (Picardi)
+DTSTART;TZID=America/New_York:20251018T170000
+DTEND;TZID=America/New_York:20251018T180000
+UID:2025-10-18-3/4Girls(Picardi)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 3A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Law Offices of John P. McLaughlin (Johnson-Orange)
+DTSTART;TZID=America/New_York:20251018T180000
+DTEND;TZID=America/New_York:20251018T190000
+UID:2025-10-18-LawOfficesofJohnP.McLaughlin(Johnson-Orange)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Harrington's Heroes (Maiden - Orange)
+DTSTART;TZID=America/New_York:20251018T170000
+DTEND;TZID=America/New_York:20251018T180000
+UID:2025-10-18-Harrington'sHeroes(Maiden-Orange)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Morales Construction (Onwumere - Green)
+DTSTART;TZID=America/New_York:20251018T180000
+DTEND;TZID=America/New_York:20251018T190000
+UID:2025-10-18-MoralesConstruction(Onwumere-Green)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 1 U10\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Best Collision (Dauphinee - Blue)
+DTSTART;TZID=America/New_York:20251018T170000
+DTEND;TZID=America/New_York:20251018T180000
+UID:2025-10-18-BestCollision(Dauphinee-Blue)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 1A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: A.G. Osward Electric  (Casavant - Red)
+DTSTART;TZID=America/New_York:20251018T170000
+DTEND;TZID=America/New_York:20251018T180000
+UID:2025-10-18-A.G.OswardElectric(Casavant-Red)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: www.slamyourday.com (Casavant - Red)
+DTSTART;TZID=America/New_York:20251018T180000
+DTEND;TZID=America/New_York:20251018T190000
+UID:2025-10-18-www.slamyourday.com(Casavant-Red)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: The Brook (Harris - Blue)
+DTSTART;TZID=America/New_York:20251018T170000
+DTEND;TZID=America/New_York:20251018T180000
+UID:2025-10-18-TheBrook(Harris-Blue)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2B U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: 3/4 Girls (Picardi)
+DTSTART;TZID=America/New_York:20251019T170000
+DTEND;TZID=America/New_York:20251019T180000
+UID:2025-10-19-3/4Girls(Picardi)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 3A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Law Offices of John P. McLaughlin (Johnson-Orange)
+DTSTART;TZID=America/New_York:20251019T180000
+DTEND;TZID=America/New_York:20251019T190000
+UID:2025-10-19-LawOfficesofJohnP.McLaughlin(Johnson-Orange)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Harrington's Heroes (Maiden - Orange)
+DTSTART;TZID=America/New_York:20251019T170000
+DTEND;TZID=America/New_York:20251019T180000
+UID:2025-10-19-Harrington'sHeroes(Maiden-Orange)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Morales Construction (Onwumere - Green)
+DTSTART;TZID=America/New_York:20251019T180000
+DTEND;TZID=America/New_York:20251019T190000
+UID:2025-10-19-MoralesConstruction(Onwumere-Green)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 1 U10\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: Best Collision (Dauphinee - Blue)
+DTSTART;TZID=America/New_York:20251019T170000
+DTEND;TZID=America/New_York:20251019T180000
+UID:2025-10-19-BestCollision(Dauphinee-Blue)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 1A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: A.G. Osward Electric  (Casavant - Red)
+DTSTART;TZID=America/New_York:20251019T170000
+DTEND;TZID=America/New_York:20251019T180000
+UID:2025-10-19-A.G.OswardElectric(Casavant-Red)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: www.slamyourday.com (Casavant - Red)
+DTSTART;TZID=America/New_York:20251019T180000
+DTEND;TZID=America/New_York:20251019T190000
+UID:2025-10-19-www.slamyourday.com(Casavant-Red)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2A U8\, Holbrook Sumner Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: The Brook (Harris - Blue)
+DTSTART;TZID=America/New_York:20251019T170000
+DTEND;TZID=America/New_York:20251019T180000
+UID:2025-10-19-TheBrook(Harris-Blue)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 2B U8\, Holbrook Sumner Field
+END:VEVENT
+END:VCALENDAR
