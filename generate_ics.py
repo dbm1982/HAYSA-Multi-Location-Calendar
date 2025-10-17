@@ -8,10 +8,11 @@ import pytz
 import re
 import os
 import time
+from datetime import date
 
 # CONFIGURATION
-START_DATE = datetime(2025, 10, 17)
-END_DATE = datetime(2025, 10, 19)
+START_DATE = datetime.today()
+END_DATE = START_DATE + timedelta(days=180)
 URL = "https://haysa.org/multi-location-calendar"
 DELAY = 2  # seconds between page loads
 TIMEZONE = pytz.timezone("America/New_York")
