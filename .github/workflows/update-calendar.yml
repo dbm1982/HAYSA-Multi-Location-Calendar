@@ -2,7 +2,7 @@ name: Update HAYSA Calendar
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Runs daily at 6am UTC
+    - cron: '0 * * * *'  # Runs every hour on the hour
   workflow_dispatch:
 
 jobs:
