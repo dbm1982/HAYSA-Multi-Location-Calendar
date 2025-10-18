@@ -22,7 +22,7 @@ NEXT_BUTTON_XPATH = "/html/body/form/div[10]/div[1]/div[3]/div[5]/div/div[1]/div
 
 # SETUP
 options = Options()
-# options.add_argument("--headless")  # Uncomment for headless mode
+options.add_argument("--headless")  # Uncomment for headless mode
 options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(options=options)
