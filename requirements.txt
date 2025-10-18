@@ -1,1 +1,3 @@
-pip install selenium icalendar pytz
+selenium
+icalendar
+pytz
