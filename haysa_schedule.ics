@@ -2,22 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: 5/6/7 Boys RecTeam 1 Practice (Holbrook Sean Joyce Field
- )
-DTSTART;TZID=America/New_York:20260901T173000
-DTEND;TZID=America/New_York:20260901T183000
-UID:2026-09-01-Practice:-5/6/7BoysRecTeam1Practice(HolbrookSeanJoyceField)
- @haysa.org
-DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practice: The Sean Joyce Foundation (Red) Practice (Holbrook Sean 
- Joyce Field)
-DTSTART;TZID=America/New_York:20260901T170000
-DTEND;TZID=America/New_York:20260901T180000
-UID:2026-09-01-Practice:-TheSeanJoyceFoundation(Red)Practice(HolbrookSeanJ
- oyceField)@haysa.org
+SUMMARY:Practice: Wm. Perry Auto Repair (Orange) Practice (Holbrook Sean J
+ oyce Field)
+DTSTART;TZID=America/New_York:20260902T173000
+DTEND;TZID=America/New_York:20260902T183000
+UID:2026-09-02-Practice:-Wm.PerryAutoRepair(Orange)Practice(HolbrookSeanJo
+ yceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
