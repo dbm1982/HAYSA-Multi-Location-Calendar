@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: Hornets Nest Solutions LLC (Red) Practice (Holbrook Sean
-  Joyce Field)
-DTSTART;TZID=America/New_York:20260903T173000
-DTEND;TZID=America/New_York:20260903T183000
-UID:2026-09-03-Practice:-HornetsNestSolutionsLLC(Red)Practice(HolbrookSean
- JoyceField)@haysa.org
+SUMMARY:Practice: Nielsen Eye Center (Orange) Practice (Holbrook Sean Joyc
+ e Field)
+DTSTART;TZID=America/New_York:20260904T170000
+DTEND;TZID=America/New_York:20260904T180000
+UID:2026-09-04-Practice:-NielsenEyeCenter(Orange)Practice(HolbrookSeanJoyc
+ eField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
