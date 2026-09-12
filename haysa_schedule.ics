@@ -31,21 +31,21 @@ DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Game: Undercover Undercoaters Bridgewater (Orange) vs. Avon Septic
-  and Pumping (Blue) (Holbrook Sean Joyce Field)
+SUMMARY:Game: Nielsen Eye Center (Orange) vs. Brockton Rox (Blue) (Holbroo
+ k Sean Joyce Field)
 DTSTART;TZID=America/New_York:20260912T110000
 DTEND;TZID=America/New_York:20260912T120000
-UID:2026-09-12-Game:-UndercoverUndercoatersBridgewater(Orange)vs.AvonSepti
- candPumping(Blue)(HolbrookSeanJoyceField)@haysa.org
+UID:2026-09-12-Game:-NielsenEyeCenter(Orange)vs.BrocktonRox(Blue)(Holbrook
+ SeanJoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Game: The Red House Academy (Red) vs. Holbrook Community Center (G
- reen) (Holbrook Sean Joyce Field)
+SUMMARY:Game: The Sean Joyce Foundation (Red) vs. www.slamyourday.com (Gre
+ en) (Holbrook Sean Joyce Field)
 DTSTART;TZID=America/New_York:20260912T110000
 DTEND;TZID=America/New_York:20260912T120000
-UID:2026-09-12-Game:-TheRedHouseAcademy(Red)vs.HolbrookCommunityCenter(Gre
+UID:2026-09-12-Game:-TheSeanJoyceFoundation(Red)vs.www.slamyourday.com(Gre
  en)(HolbrookSeanJoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4B U8\, Holbrook Sean Joyce Field
