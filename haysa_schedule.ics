@@ -4,11 +4,21 @@ PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
 SUMMARY:Practice: 5/6/7 Boys Rec Team 1 - StormCare Roofing Inc. Practice 
  (Holbrook Sean Joyce Field)
-DTSTART;TZID=America/New_York:20260914T170000
-DTEND;TZID=America/New_York:20260914T180000
-UID:2026-09-14-Practice:-5/6/7BoysRecTeam1-StormCareRoofingInc.Practice(Ho
+DTSTART;TZID=America/New_York:20260915T173000
+DTEND;TZID=America/New_York:20260915T183000
+UID:2026-09-15-Practice:-5/6/7BoysRecTeam1-StormCareRoofingInc.Practice(Ho
  lbrookSeanJoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practice: The Sean Joyce Foundation (Red) Practice (Holbrook Sean 
+ Joyce Field)
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T180000
+UID:2026-09-15-Practice:-TheSeanJoyceFoundation(Red)Practice(HolbrookSeanJ
+ oyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
 END:VCALENDAR
