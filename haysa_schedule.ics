@@ -1,4 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
+BEGIN:VEVENT
+SUMMARY:Game: 7/8 Boys Travel (Collins) vs. Sharon (Holbrook High School)
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T190000
+UID:2026-09-29-Game:-7/8BoysTravel(Collins)vs.Sharon(HolbrookHighSchool)@h
+ aysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
 END:VCALENDAR
