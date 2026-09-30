@@ -2,12 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Game: 7/8 Boys Travel (Collins) vs. Sharon (Holbrook High School)
-DTSTART;TZID=America/New_York:20260929T180000
-DTEND;TZID=America/New_York:20260929T190000
-UID:2026-09-29-Game:-7/8BoysTravel(Collins)vs.Sharon(HolbrookHighSchool)@h
- aysa.org
+SUMMARY:Practice: Wm. Perry Auto Repair (Orange) Practice (Holbrook Sean J
+ oyce Field)
+DTSTART;TZID=America/New_York:20260930T173000
+DTEND;TZID=America/New_York:20260930T183000
+UID:2026-09-30-Practice:-Wm.PerryAutoRepair(Orange)Practice(HolbrookSeanJo
+ yceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Turf Field\, Holbrook High School
+LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
 END:VCALENDAR
