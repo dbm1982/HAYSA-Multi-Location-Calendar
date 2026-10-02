@@ -2,23 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: Hornets Nest Solutions LLC (Red) Practice (Holbrook Sean
-  Joyce Field)
-DTSTART;TZID=America/New_York:20261001T173000
-DTEND;TZID=America/New_York:20261001T183000
-UID:2026-10-01-Practice:-HornetsNestSolutionsLLC(Red)Practice(HolbrookSean
- JoyceField)@haysa.org
-DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practice: Wm. Perry Trucking (Orange) Practice (Holbrook Sean Joyc
+SUMMARY:Practice: Nielsen Eye Center (Orange) Practice (Holbrook Sean Joyc
  e Field)
-DTSTART;TZID=America/New_York:20261001T173000
-DTEND;TZID=America/New_York:20261001T183000
-UID:2026-10-01-Practice:-Wm.PerryTrucking(Orange)Practice(HolbrookSeanJoyc
+DTSTART;TZID=America/New_York:20261002T170000
+DTEND;TZID=America/New_York:20261002T180000
+UID:2026-10-02-Practice:-NielsenEyeCenter(Orange)Practice(HolbrookSeanJoyc
  eField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4B U8\, Holbrook Sean Joyce Field
+LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
 END:VCALENDAR
