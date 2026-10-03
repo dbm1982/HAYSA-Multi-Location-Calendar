@@ -2,13 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: Nielsen Eye Center (Orange) Practice (Holbrook Sean Joyc
- e Field)
-DTSTART;TZID=America/New_York:20261002T170000
-DTEND;TZID=America/New_York:20261002T180000
-UID:2026-10-02-Practice:-NielsenEyeCenter(Orange)Practice(HolbrookSeanJoyc
- eField)@haysa.org
+SUMMARY:Game: 7/8 Boys Travel (Mills) vs. Stoughton (Holbrook High School)
+DTSTART;TZID=America/New_York:20261003T153000
+DTEND;TZID=America/New_York:20261003T163000
+UID:2026-10-03-Game:-7/8BoysTravel(Mills)vs.Stoughton(HolbrookHighSchool)@
+ haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: 7/8 Boys Travel (Collins) vs. Rockland (Holbrook High School
+ )
+DTSTART;TZID=America/New_York:20261003T173000
+DTEND;TZID=America/New_York:20261003T183000
+UID:2026-10-03-Game:-7/8BoysTravel(Collins)vs.Rockland(HolbrookHighSchool)
+ @haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: Hope and Future Home Care Services (Blue) vs. Wm. Perry Auto
+  Repair (Orange) (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261003T083000
+DTEND;TZID=America/New_York:20261003T093000
+UID:2026-10-03-Game:-HopeandFutureHomeCareServices(Blue)vs.Wm.PerryAutoRep
+ air(Orange)(HolbrookSeanJoyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: Holbrook Community Center (Green) vs. The Red House Academy 
+ (Red) (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261003T110000
+DTEND;TZID=America/New_York:20261003T120000
+UID:2026-10-03-Game:-HolbrookCommunityCenter(Green)vs.TheRedHouseAcademy(R
+ ed)(HolbrookSeanJoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: Avon Septic and Pumping (Blue) vs. Undercover Undercoaters B
+ ridgewater (Orange) (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261003T110000
+DTEND;TZID=America/New_York:20261003T120000
+UID:2026-10-03-Game:-AvonSepticandPumping(Blue)vs.UndercoverUndercoatersBr
+ idgewater(Orange)(HolbrookSeanJoyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4B U8\, Holbrook Sean Joyce Field
 END:VEVENT
 END:VCALENDAR
