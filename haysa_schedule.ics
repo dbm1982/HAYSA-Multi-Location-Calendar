@@ -2,13 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: Nielsen Eye Center (Orange) Practice (Holbrook Sean Joyc
- e Field)
-DTSTART;TZID=America/New_York:20261009T170000
-DTEND;TZID=America/New_York:20261009T180000
-UID:2026-10-09-Practice:-NielsenEyeCenter(Orange)Practice(HolbrookSeanJoyc
- eField)@haysa.org
+SUMMARY:Game: 7/8 Girls Travel (Caldwell) vs. Weymouth (Holbrook High Scho
+ ol)
+DTSTART;TZID=America/New_York:20261010T123000
+DTEND;TZID=America/New_York:20261010T133000
+UID:2026-10-10-Game:-7/8GirlsTravel(Caldwell)vs.Weymouth(HolbrookHighSchoo
+ l)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: 5/6 Boys Travel (Walsh) vs. Weymouth (Holbrook High School)
+DTSTART;TZID=America/New_York:20261010T173000
+DTEND;TZID=America/New_York:20261010T183000
+UID:2026-10-10-Game:-5/6BoysTravel(Walsh)vs.Weymouth(HolbrookHighSchool)@h
+ aysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
 END:VEVENT
 END:VCALENDAR
