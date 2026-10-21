@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: 5/6/7 Boys Rec Team 1 - StormCare Roofing Inc. Practice 
- (Holbrook Sean Joyce Field)
-DTSTART;TZID=America/New_York:20261020T173000
-DTEND;TZID=America/New_York:20261020T183000
-UID:2026-10-20-Practice:-5/6/7BoysRecTeam1-StormCareRoofingInc.Practice(Ho
- lbrookSeanJoyceField)@haysa.org
+SUMMARY:Game: 5/6 Girls Travel (Casavant) vs. Stoughton (Holbrook High Sch
+ ool)
+DTSTART;TZID=America/New_York:20261021T183000
+DTEND;TZID=America/New_York:20261021T193000
+UID:2026-10-21-Game:-5/6GirlsTravel(Casavant)vs.Stoughton(HolbrookHighScho
+ ol)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+LOCATION:Turf Field\, Holbrook High School
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practice: The Sean Joyce Foundation (Red) Practice (Holbrook Sean 
- Joyce Field)
-DTSTART;TZID=America/New_York:20261020T170000
-DTEND;TZID=America/New_York:20261020T180000
-UID:2026-10-20-Practice:-TheSeanJoyceFoundation(Red)Practice(HolbrookSeanJ
- oyceField)@haysa.org
+SUMMARY:Practice: Wm. Perry Auto Repair (Orange) Practice (Holbrook Sean J
+ oyce Field)
+DTSTART;TZID=America/New_York:20261021T173000
+DTEND;TZID=America/New_York:20261021T183000
+UID:2026-10-21-Practice:-Wm.PerryAutoRepair(Orange)Practice(HolbrookSeanJo
+ yceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
