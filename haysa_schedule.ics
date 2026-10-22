@@ -2,22 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Game: 5/6 Girls Travel (Casavant) vs. Stoughton (Holbrook High Sch
- ool)
-DTSTART;TZID=America/New_York:20261021T183000
-DTEND;TZID=America/New_York:20261021T193000
-UID:2026-10-21-Game:-5/6GirlsTravel(Casavant)vs.Stoughton(HolbrookHighScho
- ol)@haysa.org
-DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Turf Field\, Holbrook High School
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practice: Wm. Perry Auto Repair (Orange) Practice (Holbrook Sean J
- oyce Field)
-DTSTART;TZID=America/New_York:20261021T173000
-DTEND;TZID=America/New_York:20261021T183000
-UID:2026-10-21-Practice:-Wm.PerryAutoRepair(Orange)Practice(HolbrookSeanJo
- yceField)@haysa.org
+SUMMARY:Practice: Hornets Nest Solutions LLC (Red) Practice (Holbrook Sean
+  Joyce Field)
+DTSTART;TZID=America/New_York:20261022T173000
+DTEND;TZID=America/New_York:20261022T183000
+UID:2026-10-22-Practice:-HornetsNestSolutionsLLC(Red)Practice(HolbrookSean
+ JoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
 END:VEVENT
