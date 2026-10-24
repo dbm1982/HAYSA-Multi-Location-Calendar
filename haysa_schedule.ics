@@ -2,13 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: Nielsen Eye Center (Orange) Practice (Holbrook Sean Joyc
- e Field)
-DTSTART;TZID=America/New_York:20261023T170000
-DTEND;TZID=America/New_York:20261023T180000
-UID:2026-10-23-Practice:-NielsenEyeCenter(Orange)Practice(HolbrookSeanJoyc
- eField)@haysa.org
+SUMMARY:Game: 3/4 Girls Team 1 - Edwards Built Pavements vs. 3/4 Girls Tea
+ m 2 (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261024T083000
+DTEND;TZID=America/New_York:20261024T093000
+UID:2026-10-24-Game:-3/4GirlsTeam1-EdwardsBuiltPavementsvs.3/4GirlsTeam2(H
+ olbrookSeanJoyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: The Sean Joyce Foundation (Red) vs. Brockton Rox (Blue) (Hol
+ brook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T120000
+UID:2026-10-24-Game:-TheSeanJoyceFoundation(Red)vs.BrocktonRox(Blue)(Holbr
+ ookSeanJoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: Nielsen Eye Center (Orange) vs. www.slamyourday.com (Green) 
+ (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T120000
+UID:2026-10-24-Game:-NielsenEyeCenter(Orange)vs.www.slamyourday.com(Green)
+ (HolbrookSeanJoyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4B U8\, Holbrook Sean Joyce Field
 END:VEVENT
 END:VCALENDAR
