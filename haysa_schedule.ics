@@ -2,13 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
 BEGIN:VEVENT
-SUMMARY:Practice: Nielsen Eye Center (Orange) Practice (Holbrook Sean Joyc
- e Field)
-DTSTART;TZID=America/New_York:20261030T170000
-DTEND;TZID=America/New_York:20261030T180000
-UID:2026-10-30-Practice:-NielsenEyeCenter(Orange)Practice(HolbrookSeanJoyc
- eField)@haysa.org
+SUMMARY:Game: 7/8 Boys Travel (Mills) vs. Quincy (Holbrook High School)
+DTSTART;TZID=America/New_York:20261031T140000
+DTEND;TZID=America/New_York:20261031T150000
+UID:2026-10-31-Game:-7/8BoysTravel(Mills)vs.Quincy(HolbrookHighSchool)@hay
+ sa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: 5/6 Boys Travel (Walsh) vs. Raynham (Holbrook High School)
+DTSTART;TZID=America/New_York:20261031T153000
+DTEND;TZID=America/New_York:20261031T163000
+UID:2026-10-31-Game:-5/6BoysTravel(Walsh)vs.Raynham(HolbrookHighSchool)@ha
+ ysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: 3/4 Girls Team 1 - Edwards Built Pavements vs. 3/4 Girls Tea
+ m 2 (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261031T083000
+DTEND;TZID=America/New_York:20261031T093000
+UID:2026-10-31-Game:-3/4GirlsTeam1-EdwardsBuiltPavementsvs.3/4GirlsTeam2(H
+ olbrookSeanJoyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: Nielsen Eye Center (Orange) vs. Brockton Rox (Blue) (Holbroo
+ k Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T120000
+UID:2026-10-31-Game:-NielsenEyeCenter(Orange)vs.BrocktonRox(Blue)(Holbrook
+ SeanJoyceField)@haysa.org
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Game: The Sean Joyce Foundation (Red) vs. www.slamyourday.com (Gre
+ en) (Holbrook Sean Joyce Field)
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T120000
+UID:2026-10-31-Game:-TheSeanJoyceFoundation(Red)vs.www.slamyourday.com(Gre
+ en)(HolbrookSeanJoyceField)@haysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Field 4B U8\, Holbrook Sean Joyce Field
 END:VEVENT
 END:VCALENDAR
