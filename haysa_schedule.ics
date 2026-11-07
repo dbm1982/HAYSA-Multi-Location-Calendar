@@ -59,34 +59,4 @@ UID:2026-11-07-Game:-5/6BoysTravel(Ayers)vs.Stoughton(HolbrookHighSchool)@
 DESCRIPTION:Imported from HAYSA calendar
 LOCATION:Turf Field\, Holbrook High School
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game: 3/4 Girls Team 1 - Edwards Built Pavements vs. 3/4 Girls Tea
- m 2 (Holbrook Sean Joyce Field)
-DTSTART;TZID=America/New_York:20261107T120000
-DTEND;TZID=America/New_York:20261107T130000
-UID:2026-11-07-Game:-3/4GirlsTeam1-EdwardsBuiltPavementsvs.3/4GirlsTeam2(H
- olbrookSeanJoyceField)@haysa.org
-DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4 U10\, Holbrook Sean Joyce Field
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game: Brockton Rox (Blue) vs. www.slamyourday.com (Green) (Holbroo
- k Sean Joyce Field)
-DTSTART;TZID=America/New_York:20261107T094500
-DTEND;TZID=America/New_York:20261107T104500
-UID:2026-11-07-Game:-BrocktonRox(Blue)vs.www.slamyourday.com(Green)(Holbro
- okSeanJoyceField)@haysa.org
-DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4A U8\, Holbrook Sean Joyce Field
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game: The Sean Joyce Foundation (Red) vs. Nielsen Eye Center (Oran
- ge) (Holbrook Sean Joyce Field)
-DTSTART;TZID=America/New_York:20261107T094500
-DTEND;TZID=America/New_York:20261107T104500
-UID:2026-11-07-Game:-TheSeanJoyceFoundation(Red)vs.NielsenEyeCenter(Orange
- )(HolbrookSeanJoyceField)@haysa.org
-DESCRIPTION:Imported from HAYSA calendar
-LOCATION:Field 4B U8\, Holbrook Sean Joyce Field
-END:VEVENT
 END:VCALENDAR
