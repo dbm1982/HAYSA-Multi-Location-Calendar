@@ -1,4 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//HAYSA Practice Calendar//haysa.org//
+BEGIN:VEVENT
+SUMMARY:Game: 7/8 Boys Travel (Mills) vs. Randolph (Holbrook High School)
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T130000
+UID:2026-11-14-Game:-7/8BoysTravel(Mills)vs.Randolph(HolbrookHighSchool)@h
+ aysa.org
+DESCRIPTION:Imported from HAYSA calendar
+LOCATION:Turf Field\, Holbrook High School
+END:VEVENT
 END:VCALENDAR
